@@ -22,6 +22,6 @@ The course, and hence my notes and exercises, focuses on the main aspects of Jav
   - test driven development (JUnit) 
   - design patterns
   
-  
+  The main language for notes will be Italian, sorry :P 
   
   
